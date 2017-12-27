@@ -1,0 +1,13 @@
+<---------------------------------------------------------------->
+<---------------Welcome To Copter Game------------------->
+<--------------------Credits--------------------->
+
+Release Date :: 10th November 2014
+
+Copter 1.0 :: Made and released by Y.S.S.V Sasi Kiran.
+																		
+																				CS13B055
+
+Mentor: Shivam Srivatsava.
+
+<---------------Hope you enjoyed playing it--------------->

@@ -1,0 +1,9 @@
+<---------------------------------------------------------------->
+<---------------Welcome To Copter Game------------------->
+<-------------------Instructions--------------------->
+
+Press and hold the Mouse Button either left or right to make the helicopter move up.
+
+Release the mouse button to make the helicopter fall down.
+
+Game is quit either by colliding anywhere or by pressin 'x' at top left corner.
